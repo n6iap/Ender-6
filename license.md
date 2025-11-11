@@ -18,6 +18,8 @@ Contributors as of EOY 2024:
 
 https://github.com/n6iap/Ender-6
 
+https://github.com/Klipper3d/klipper/blob/96cceed23efc7a3759ecfba0a228cdcb4d5244d3/config/example-corexz.cfg
+
 https://github.com/Nbrooks639/Ender6-Klipper-SKRE3V3-
 
 https://github.com/dJPoida/BobCoreXYKlipperConfig
